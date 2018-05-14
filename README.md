@@ -29,6 +29,7 @@ Download&Install:
   - gherkin (if more gherkin are offered choose only the newest)
   - cucumber for java
   - <b>Don't</b> install the Substeps plugin
+  - Add as Maven project in case of Non Managed POM.xml file found occurs
 
 
 
