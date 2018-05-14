@@ -4,7 +4,7 @@ cucumber-java-selenium
 ## Installation
 
 Download&Install:
-- IntelliJ community edition 
+- IntelliJ 2017 3.5 community edition 
 
 - In Chrome search on 'ChroPath' and add the extension to your browser
 
@@ -16,7 +16,7 @@ Download&Install:
 
 - Start up IntelliJ
 - Choose Check out from Version Control -> Git
-- Fill in URL "https://github.com/dlammerse/TestForce.git"
+- Fill in URL "https://github.com/RobFl4/ITestMyCase.git"
 - press Test
 - press Clone
 
